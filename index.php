@@ -107,7 +107,10 @@
   }
 
   </style>
-
+<?php
+// Include Google Analytics script
+if(file_exists('./ga.php')) include './ga.php';
+?>
 </head>
 <body>
   <header class="mainheader">
