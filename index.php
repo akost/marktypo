@@ -326,7 +326,7 @@ Violets are blue.
 </div>
 
 <footer>
-  <p>Предложения, комментарии — в твиттер <a href="https://twitter.com/kost">@kost</a></p>
+  <p>Предложения, комментарии — в твиттер <a href="https://twitter.com/kost">@kost</a> или на <a href="https://github.com/akost/marktypo">GitHub</a></p>
   <h4>По мотивам:</h4>
     <ul>
     <li><a href="http://daringfireball.net/projects/markdown/dingus">http://daringfireball.net/projects/markdown/dingus</a></li>
